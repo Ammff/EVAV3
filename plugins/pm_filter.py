@@ -348,11 +348,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             f_caption = f"{files.file_name}"
         buttons = [
                 [
-                    InlineKeyboardButton('⚡ᴊᴏɪɴ ɢʀᴏᴜᴘ⚡', url='https://t.me/MovieRosterGroup'),
-                    InlineKeyboardButton('💥ꜱʜᴀʀᴇ💥', url='https://t.me/share/url?url=https://t.me/MovieRosterGroup')
+                    InlineKeyboardButton('⚡ᴊᴏɪɴ ɢʀᴏᴜᴘ⚡', url='https://t.me/c_i_n_i_m_a_v_i_l_l_a'),
+                    InlineKeyboardButton('💥ꜱʜᴀʀᴇ💥', url='https://t.me/share/url?url=https://t.me/c_i_n_i_m_a_v_i_l_l_a')
                 ],
                 [
-                    InlineKeyboardButton('🔖ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ🔖', url=f'https://t.me/MovieRosterOfficial')
+                    InlineKeyboardButton('🔖ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ🔖', url=f'https://t.me/CV_Community')
                 ]
                 ]
             
@@ -400,11 +400,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             f_caption = f"{title}"
         buttons = [
                 [
-                    InlineKeyboardButton('⚡ᴊᴏɪɴ ɢʀᴏᴜᴘ⚡', url='https://t.me/MovieRosterGroup'),
-                    InlineKeyboardButton('💥ꜱʜᴀʀᴇ💥', url='https://t.me/share/url?url=https://t.me/MovieRosterGroup')
+                    InlineKeyboardButton('⚡ᴊᴏɪɴ ɢʀᴏᴜᴘ⚡', url='https://t.me/c_i_n_i_m_a_v_i_l_l_a'),
+                    InlineKeyboardButton('💥ꜱʜᴀʀᴇ💥', url='https://t.me/share/url?url=https://t.me/c_i_n_i_m_a_v_i_l_l_a')
                 ],
                 [
-                    InlineKeyboardButton('🔖ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ🔖', url=f'https://t.me/MovieRosterOfficial')
+                    InlineKeyboardButton('🔖ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ🔖', url=f'https://t.me/CV_Community')
                 ]
                 ]
         await query.answer()
@@ -419,10 +419,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('✨ ᴡᴏʀᴋɪɴɢ ɢʀᴏᴜᴘ ✨', url='https://t.me/MovieRosterGroup')
+            InlineKeyboardButton('✨ ᴡᴏʀᴋɪɴɢ ɢʀᴏᴜᴘ ✨', url='https://t.me/c_i_n_i_m_a_v_i_l_l_a')
             ],[
-            InlineKeyboardButton('👮‍♂ ᴅᴇᴠᴇʟᴏᴘᴇʀ 👮‍♂', url='https://t.me/Rafeeq_Kunnimon'),
-            InlineKeyboardButton('❤️ sᴜᴘᴘᴏʀᴛ ❤️', url='https://t.me/MovieRosterOfficial')
+            InlineKeyboardButton('👮‍♂ ᴅᴇᴠᴇʟᴏᴘᴇʀ 👮‍♂', url='https://t.me/DREM_HAKER'),
+            InlineKeyboardButton('❤️ sᴜᴘᴘᴏʀᴛ ❤️', url='https://t.me/CV_Community')
             ],[
             InlineKeyboardButton('📚 ʜᴇʟᴘ 📚', callback_data='help'),
             InlineKeyboardButton('🔰 ᴀʙᴏᴜᴛ 🔰', callback_data='about')
@@ -471,7 +471,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('👮‍♂ ᴅᴇᴠᴇʟᴏᴘᴇʀ 👮‍♂', url='https://t.me/Rafeeq_Kunnimon'),
+            InlineKeyboardButton('👮‍♂ ᴅᴇᴠᴇʟᴏᴘᴇʀ 👮‍♂', url='https://t.me/DREM_HAKER'),
             InlineKeyboardButton('❤️ sᴏᴜʀᴄᴇ ♥️', callback_data='source')
             ],[
             InlineKeyboardButton('🏡 ʜᴏᴍᴇ 🏡', callback_data='start'),
