@@ -1,16 +1,16 @@
 class Script(object):
     START_TXT = """👋 ʜᴇʟʟᴏᴡ {}\n\n⎆ ᴍʏ ɴᴀᴍᴇ ɪs <a href=https://t.me/{}>{}</a>\n\n⎆ ɪ ᴀᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇᴅ ғɪʟᴛᴇʀ ʙᴏᴛ.\n\n🕵️ ɪ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ɪɴ ᴀʟʟ ᴜsᴇʀs\n\n👮‍♂ ᴍᴀɪɴᴛᴀɪɴᴇᴅ : <a href='https://t.me/Rafeeq_Kunnimon'>★ ʀᴀғᴇᴇǫ ★</a> """
     HELP_TXT = """👋 ʜᴇʟʟᴏᴡ {}\nʜᴇʀᴇ ɪᴅ ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴍʏ\nᴄᴏᴍᴍᴀɴᴅᴀ."""
-    ABOUT_TXT = """<b>🥱 ᴍʏ ɴᴀᴍᴇ : 𝐒𝐡𝐢𝐧𝐨𝐛𝐮 𝐊𝐨𝐜𝐡𝐨 ❤️
-👮‍♂ ᴅᴇᴠʟᴏᴘᴇʀ : <a href='https://t.me/Rafeeq_Kunnimon'>★ ʀᴀғᴇᴇǫ ★</a>
+    ABOUT_TXT = """<b>🥱 ᴍʏ ɴᴀᴍᴇ :TOM 
+👮‍♂ ᴅᴇᴠʟᴏᴘᴇʀ : <a href='https://t.me/DREM_HAKER'>★ DREM_HAKER ★</a>
 📚 ʟɪʙʀᴀʀʏ : 𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦
 🖥 ʟᴀɴɢᴜᴀɢᴇ : 𝐏𝐲𝐭𝐡𝐨𝐧 𝟑
 ☢️ ᴅᴀᴛᴀ ʙᴀsᴇ : 𝐌𝐨𝐧𝐠𝐨 𝐃𝐛
-🏡 ʙᴏᴛ ɢʀᴏᴜᴘ : @MovieRosterGroup </b>"""
+🏡 ʙᴏᴛ ɢʀᴏᴜᴘ : @c_i_n_i_m_a_v_i_l_l_a </b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 👋<b><i>എന്താടാ മോനെ നോക്കുന്നേ നിനക്ക് ആവശ്യമായിട്ടുള്ളത് ഇവിടെ ഇല്ല 😌
 </i></b>
-<b>👮‍♂ ᴅᴇᴠʟᴏᴘᴇʀ : <a href='https://t.me/Rafeeq_Kunnimon'>★ ʀᴀғᴇᴇǫ ★</a> </b>
+<b>👮‍♂ ᴅᴇᴠʟᴏᴘᴇʀ : <a href='https://t.me/DREM_HAKER'>★ DREM_HAKER ★</a> </b>
 """
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 - Filter is the feature were users can set automated replies for a particular keyword and Dingdi will respond whenever a keyword is found the message
@@ -31,7 +31,7 @@ class Script(object):
 2. IMDb supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format.
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/josprojects)</code>
+<code>[Button Text](buttonurl:https://t.me/CV_Community)</code>
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
 
